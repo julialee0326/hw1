@@ -1,5 +1,6 @@
 # _hw1_
 ![](https://pp.userapi.com/c830409/v830409304/545ee/0VLaaenzGQ8.jpg)
+![](https://pp.userapi.com/c840624/v840624318/475cd/WiHBiSTxMsQ.jpg)
 ## **Some significant facts about me**
  1. Julia Lee
  2. 18 years old
@@ -22,7 +23,15 @@
   5. The catcher in the Rye
 ### *Favorite movies and TV series*
 1. Sherlock
-
+2. Interstellar
+3. The Big Bang Theory
+4. Deadpool
+5. X-Men
 #### **Links to my social networks**
  - [VK](https://vk.com/juliadderly "Follow me")
  - [Instagram](https://vk.com/away.php?to=https%3A%2F%2Fwww.instagram.com%2Fjulia.l.a&cc_key= "Follow me")
+#### **Contact me**
+ + <julliadderly@mail.ru>
+ + <yuali@edu.hse.ru>
+ + <https://www.t.me/JuliaLee0326/>
+ 
