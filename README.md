@@ -10,7 +10,7 @@
 + Playing guitar
 + Reading books
 + Listening to music
-+ Watching wovies
++ Watching movies and TV series
 + Walking with friends
 + Traveling
 + Visiting sightseeings
@@ -20,6 +20,9 @@
   3. Martin Eden
   4. Nineteen Eighty-Four
   5. The catcher in the Rye
+### *Favorite movies and TV series*
+1. Sherlock
+
 #### **Links to my social networks**
  - <https://vk.com/juliadderly>
  - <https://vk.com/away.php?to=https%3A%2F%2Fwww.instagram.com%2Fjulia.l.a&cc_key=>
