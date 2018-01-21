@@ -1,7 +1,7 @@
 # _hw1_
 ![](https://pp.userapi.com/c830409/v830409304/545ee/0VLaaenzGQ8.jpg)
 ![](https://pp.userapi.com/c840624/v840624318/475cd/WiHBiSTxMsQ.jpg)
-## **Some significant facts about me**
+## **Some ~~significant~~ facts about me**
  1. Julia Lee
  2. 18 years old
  3. Moscow, Odintsovo, Dormitory №8
@@ -34,4 +34,6 @@
  + <julliadderly@mail.ru>
  + <yuali@edu.hse.ru>
  + <https://www.t.me/JuliaLee0326/>
+ 
+ ##The schedule
  
