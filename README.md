@@ -24,5 +24,5 @@
 1. Sherlock
 
 #### **Links to my social networks**
- - <https://vk.com/juliadderly>
- - <https://vk.com/away.php?to=https%3A%2F%2Fwww.instagram.com%2Fjulia.l.a&cc_key=>
+ - [VK](https://vk.com/juliadderly "Follow me")
+ - [Instagram](https://vk.com/away.php?to=https%3A%2F%2Fwww.instagram.com%2Fjulia.l.a&cc_key= "Follow me")
